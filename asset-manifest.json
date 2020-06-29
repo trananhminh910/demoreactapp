@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/demoreactapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/demoreactapp/static/js/main.f3eb98f5.chunk.js",
+    "main.js.map": "/demoreactapp/static/js/main.f3eb98f5.chunk.js.map",
+    "runtime-main.js": "/demoreactapp/static/js/runtime-main.93e8053b.js",
+    "runtime-main.js.map": "/demoreactapp/static/js/runtime-main.93e8053b.js.map",
+    "static/js/2.cee53a46.chunk.js": "/demoreactapp/static/js/2.cee53a46.chunk.js",
+    "static/js/2.cee53a46.chunk.js.map": "/demoreactapp/static/js/2.cee53a46.chunk.js.map",
+    "index.html": "/demoreactapp/index.html",
+    "precache-manifest.02e2ac8d09db9a370d9d6126b2747e16.js": "/demoreactapp/precache-manifest.02e2ac8d09db9a370d9d6126b2747e16.js",
+    "service-worker.js": "/demoreactapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/demoreactapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cee53a46.chunk.js.LICENSE.txt": "/demoreactapp/static/js/2.cee53a46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93e8053b.js",
+    "static/js/2.cee53a46.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f3eb98f5.chunk.js"
+  ]
+}
